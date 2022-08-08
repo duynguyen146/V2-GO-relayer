@@ -13,6 +13,7 @@
     "debug": false,
     "timeout": "30s",
     "trusting-period": "8h",
+    "memo-prefix": "gacon#2074",
     "output-format": "json",
     "sign-mode": "direct"
   }
